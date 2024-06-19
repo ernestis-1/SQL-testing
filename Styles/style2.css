@@ -1,0 +1,59 @@
+*{
+
+
+        text-align:center;
+        display:block;
+        text-decoration:none;
+       }
+body,html {
+	font: 20px Tahoma, sans-serif;
+	margin: 0;
+        background-color: #f8f8f8;
+        border-top: 5px solid #ffa500;
+        height: 2%;
+        width: 100%;
+	margin: 0;
+
+  background: url("phone.jpg");
+  background-attachment:fixed;
+
+  background-size: 100%;
+}
+head{
+color: #000000;
+font-size:30px;
+font: 30px Tahoma, sans-serif;
+}
+script {
+    display: none;
+}
+
+
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 3vh;
+}
+
+.signup-link {
+  position:absolute;
+   top:0;
+   right:0;
+font-size:20px;
+}
+
+#timer {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+}
+.label {
+  position:absolute;
+   top:0;
+   right:1062;
+   font-size:20px;
+}

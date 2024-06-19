@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+
+title, head{
+  text-align:center;
+  display:block;
+  text-decoration:none;
+
+  }
+
+body,head {font-size: 30px;  }
+	html, body {
+        height: 2%;
+        width: 100%;
+        color: #000000;
+	font: 20px Tahoma, sans-serif;
+	background-color: #f8f8f8;
+	border-top: 5px solid #ffa500;
+
+	margin: 0;
+ padding: 0;
+  background: url("phone.jpg");
+  background-attachment:fixed;
+  background-size: 100%;  }
+head {color: #000000;}
+
+body{
+  background: #f8f8f8;
+  overflow: hidden;
+}
+
+.link {
+  position:absolute;
+   top:0;
+   right:0;
+}
+
+table
+{
+   margin: 0 auto;
+   width: 900px;
+   border-collapse: collapse;
+   border:1px solid;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+.signup_link {
+  position:relative;
+   top:-246px;
+   right:-467px;
+}
+
+
+
+.label {
+  position:absolute;
+   top:0;
+   right:10;
+}
